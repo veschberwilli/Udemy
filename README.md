@@ -8,3 +8,6 @@ https://www.udemy.com/course/learn-modern-security-and-cryptography-by-coding-in
 
 ## ROS For Beginners (ROS Noetic, Melodic, Kinetic)
 https://www.udemy.com/course/ros-for-beginners/
+
+## Graph Neural Network
+https://www.udemy.com/course/graph-neural-network/
